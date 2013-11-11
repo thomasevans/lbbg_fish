@@ -1,3 +1,4 @@
+#Script written by Jonas Hentati Sundberg <jonas.sundberg@stockholmresilience.su.se>
 
 # Updated 2013-10-14
 
